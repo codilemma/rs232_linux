@@ -2,6 +2,11 @@
 ## Example Projects and Personal Sandbox
 
 
+### Notes
+1. For access to a Serial device using your account
+    - sudo usermod -a -G tty <yourUsername>
+    - sudo usermod -a -G dialout <yourUsername>
+
 ### Sources
  - Source 1: https://www.cmrr.umn.edu/~strupp/serial.html
  - Source 2: http://www.tldp.org/HOWTO/Serial-Programming-HOWTO/index.html
